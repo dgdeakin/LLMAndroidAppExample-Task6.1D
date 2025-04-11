@@ -1,10 +1,3 @@
-![Screenshot_20250408_213022.png](Screenshot_20250408_213022.png)
+# Refer to this updated REPO :arrow_down:
 
-![Screenshot_20250408_213027.png](Screenshot_20250408_213027.png)
-
-
-
-Using Direct Model from Flask Api:
-![Screenshot_20250408_221514.png](Screenshot_20250408_221514.png)
-
-![Screenshot_20250408_221519.png](Screenshot_20250408_221519.png)
+https://github.com/sit3057082025/LLMAndroidAppExample-Task6.1D
